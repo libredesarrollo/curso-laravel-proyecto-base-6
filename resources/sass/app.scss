@@ -1,0 +1,63 @@
+// Fonts
+@import url("https://fonts.googleapis.com/css?family=Nunito");
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import "~bootstrap/scss/bootstrap";
+
+@import "~@fortawesome/fontawesome-free/scss/fontawesome.scss";
+@import "~@fortawesome/fontawesome-free/scss/brands.scss";
+@import "~@fortawesome/fontawesome-free/scss/solid.scss";
+
+.bg-dark {
+    background-color: #00838f !important;
+}
+
+.bg-dark2 {
+    background-color: #006972;
+}
+
+.logo_200 {
+    width: 200px;
+}
+
+
+/*SOCIAL BTN*/
+
+.btn-google {
+    color: #fff;
+    background-color: #dd4b39;
+    border-color: #dd4b39;
+}
+
+.btn-google:hover {
+    color: #fff;
+    background-color: #c23321;
+    border-color: #dd4b39;
+}
+
+.btn-twitter{
+    color: #fff;
+    background: #55acee;
+    border-color: #55acee;
+}
+
+.btn-twitter:hover{
+    color: #fff;
+    background: #2795e9;
+    border-color: #2795e9;
+}
+
+.btn-facebook{
+    color: #fff;
+    background: #3b5998;
+    border-color: #3b5998;
+}
+
+.btn-facebook:hover{
+    color: #fff;
+    background: #2d4373;
+    border-color: #2d4373;
+}
