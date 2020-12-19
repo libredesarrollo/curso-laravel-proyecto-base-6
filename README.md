@@ -1,7 +1,6 @@
 # LaraBlog
 
-### Proyecto que creamos en el curso de Laravel con Flutter en desarrollolibre.net/cursos
-
+### Proyecto que creamos en el curso de Laravel 8 (upgrade desde Laravel 6) en desarrollolibre.net/cursos
 
 ## Projecto en Node
 
@@ -17,5 +16,8 @@ npm run dev
 ```
 composer install
 ```
+
+
+
 
 
